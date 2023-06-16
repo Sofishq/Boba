@@ -17,6 +17,10 @@ body {
     position: absolute;
     bottom: 97%;
       }
+
+      h1{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      }
   
   nav ul {
     float: right;
